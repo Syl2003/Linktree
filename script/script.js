@@ -4,4 +4,4 @@ const linktree = document.querySelector('.linktree');
     setTimeout( () => {
       linktree.style.display = "flex";
       loading.style.display = "none";
-    }, 2000)
+    }, 2000);
